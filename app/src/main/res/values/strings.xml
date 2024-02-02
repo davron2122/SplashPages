@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tiktoklogin(intentactivity</string>
+    <string name="onCreate">OnCreate</string>
+    <string name="tik_tok">Tik Tok</string>
+    <string name="enter_tik_tok"><![CDATA[> enter tik tok]]></string>
+    <string name="welcome_again">Welcome again</string>
+    <string name="hellouser">HelloUser</string>
+</resources>
